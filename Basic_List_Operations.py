@@ -6,6 +6,8 @@ Created on Wed Nov 18 12:56:01 2020
 """
 
 '''
+PROBLEM STATEMENT :
+    
 Consider a list (list = []). You can perform the following commands:
 
 insert i e: Insert integer e at position i.
