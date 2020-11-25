@@ -1,5 +1,6 @@
 name = input('Enter you name : ')
 language=input('Enter which programming language you like ')
+
 print('Hi {}! Let\'s get started with string formatting.'.format(name))
 
 #TYPE 1 : by specifying the index of variables in format()
