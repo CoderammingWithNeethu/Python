@@ -1,0 +1,4 @@
+REM_PROP_ID,REM_PROP_CODE,DATE,Factor,Sold_CY
+1, AES, 01-01-2022, CY-Event Name, 
+1, AES, 01-01-2022, CY-Event Size, 0
+1, AES, 01-01-2022, CY-Holiday Factor, 0.0%

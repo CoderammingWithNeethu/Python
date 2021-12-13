@@ -1,0 +1,18 @@
+1617794355837	geckodriver	INFO	Listening on 127.0.0.1:62403
+1617794356369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nnath\\AppData\\Local\\Temp\\rust_mozprofilewp9fHO"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - C:\Program Files\Websense\Websense Endpoint\winFFext.xpi
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1617794369092	Marionette	INFO	Listening on port 62409
+1617794369266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617794369282	Marionette	ERROR	[15] No reply from Marionette:Register
+1617794381857	Marionette	INFO	Stopped listening on port 62409
+[Child 18728, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 13988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
